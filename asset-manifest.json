@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-ios-calculator/static/css/main.58daced4.chunk.css",
+    "main.js": "/react-ios-calculator/static/js/main.dacf4681.chunk.js",
+    "main.js.map": "/react-ios-calculator/static/js/main.dacf4681.chunk.js.map",
+    "runtime-main.js": "/react-ios-calculator/static/js/runtime-main.ddc5cd45.js",
+    "runtime-main.js.map": "/react-ios-calculator/static/js/runtime-main.ddc5cd45.js.map",
+    "static/js/2.c033f087.chunk.js": "/react-ios-calculator/static/js/2.c033f087.chunk.js",
+    "static/js/2.c033f087.chunk.js.map": "/react-ios-calculator/static/js/2.c033f087.chunk.js.map",
+    "index.html": "/react-ios-calculator/index.html",
+    "static/css/main.58daced4.chunk.css.map": "/react-ios-calculator/static/css/main.58daced4.chunk.css.map",
+    "static/js/2.c033f087.chunk.js.LICENSE.txt": "/react-ios-calculator/static/js/2.c033f087.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddc5cd45.js",
+    "static/js/2.c033f087.chunk.js",
+    "static/css/main.58daced4.chunk.css",
+    "static/js/main.dacf4681.chunk.js"
+  ]
+}
